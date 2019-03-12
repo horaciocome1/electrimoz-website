@@ -1,0 +1,86 @@
+#style-switcher h2 a { background: #f9676b none repeat scroll 0 0 }
+
+
+/*START SCROLL TO TOP*/
+.topcontrol {background: #f9676b none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+
+.section-title span {background: #f9676b none repeat scroll 0 0;}
+
+.btn-light-bg {background: #f9676b none repeat scroll 0 0;border: 2px solid #f9676b;}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #f9676b !important;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #f9676b !important;
+    background-color: transparent;
+}
+
+.menu-top li a:hover { color: #f9676b!important }
+
+.navbar-default.menu-shrink li a:hover { color: #f9676b !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #f9676b }
+
+
+.btn-home-bg {background: #f9676b none repeat scroll 0 0;border: 2px solid #f9676b;}
+
+.about_single:hover i {
+    box-shadow: 0 0 0 0px #f9676b;
+    background: #f9676b;
+    border: 1px solid #f9676b;
+}
+
+.about_single span {background: #f9676b none repeat scroll 0 0;}
+
+.about_single:hover h4 { color: #f9676b }
+
+.buy_now {background: #f9676b none repeat scroll 0 0;}
+
+
+figure.effect-sadie figcaption:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: -webkit-linear-gradient(top, rgba(28, 186, 200, 0) 0%, rgba(28, 186, 200, 0.8) 75%);
+    background: -webkit-linear-gradient(top, rgba(28, 186, 200, 0) 0%, rgba(28, 186, 200, 0.9) 75%);
+    background: linear-gradient(to bottom, rgba(28, 186, 200, 0) 0%, rgba(28, 186, 200, 0.9) 75%);
+    content: '';
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transform: translate3d(0,50%,0);
+    transform: translate3d(0,50%,0);
+}
+
+.project-list li a:hover { color: #f9676b }
+
+.btn-pricing-bg {background: #f9676b none repeat scroll 0 0;border: 2px solid #f9676b;}
+
+.client-testimonial:before {background: rgba(0, 0, 0, 0) linear-gradient(135deg, rgba(15, 192, 219, 1) 0%, rgba(135, 111, 231, 1) 100%) repeat scroll 0 0;}
+
+.single_testimonial img {border: 4px solid #f9676b;}
+
+.single_team figcaption {background: rgba(0,191,243,0.8);}
+
+.team_social ul li a:hover { color: #f9676b }
+
+.partner img:hover { border: 1px solid #f9676b }
+
+.contact input:hover,
+.contact input:focus {border: 1px solid #f9676b;}
+.contact textarea:hover,
+.contact textarea:focus {border: 1px solid #f9676b;}
+
+.btn-contact-bg {background: #f9676b none repeat scroll 0 0 !important;border: 2px solid #f9676b !important;}
+
+
+.contact-address {background: #f9676b;}
+
+.copyright a {color: #f9676b;}
